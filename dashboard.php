@@ -214,7 +214,7 @@ $conn->close();
                         </div>
                         <div class="chat-section">
                             <div class="chat-header">
-                                <h3>ChatBot</h3>
+                                <h3>Chat Assistance</h3>
                                 <div class="chat-indicator" id="chat-indicator"></div>
                             </div>
                             <div class="chat-box" id="chat-box">
